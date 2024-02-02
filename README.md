@@ -1,11 +1,11 @@
 # Violence detection project
 
-The goal of the project is to detect violence in video.
+The goal of the project is to detect violence in video and,  identifying objects through computer vision.
+
 
 ## DataSet
 
-The dataset contains videos from the kaggle site.
-The videos are divided into  violent videos, and  non-violent videos.
+The dataset contains videos from the kaggle site, The videos are divided into  violent videos, and  non-violent videos.
 
 ## Pipeline
 
